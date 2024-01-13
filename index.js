@@ -1,6 +1,8 @@
 // Import necessary modules
-const express = require("express");  // Import the Express framework for creating web servers
-const cors = require("cors");        // Import the CORS middleware for handling cross-origin requests
+// Import the Express framework for creating web servers
+const express = require("express");  
+ // Import the CORS middleware for handling cross-origin requests
+const cors = require("cors");       
 
 // Create an Express application instance
 const app = express();
